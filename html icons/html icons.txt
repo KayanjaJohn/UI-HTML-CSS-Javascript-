@@ -1,0 +1,23 @@
+Times (Close) Icon: &times;
+Checkmark (Tick) Icon: &#10003;
+Right Arrow Icon: &rarr;
+Left Arrow Icon: &larr;
+Up Arrow Icon: &uarr;
+Down Arrow Icon: &darr;
+Heart Icon: &hearts;
+Star Icon: &star;
+Plus Sign: &plus;
+Minus Sign: &minus;
+Times Sign (Multiplication): &times;
+Divide Sign: &divide;
+Registered Trademark Symbol: &reg;
+Copyright Symbol: &copy;
+Degree Symbol: &deg;
+Checkmark (Tick) Symbol: &#10003;
+Bullet Point: &bull;
+Square Root Symbol: &radic;
+Infinity Symbol: &infin;
+Sun Icon: &bigstar;
+Cloud Icon: &bigstarf;
+Moon Icon: &crescent;
+🌍🍇🍓🍊🫑🌮🧁🥧🍕🍔🥩🍗🎂🍺🍷🥃🍾🥢🥡🚖🎇🏛️⛪🏣🎡🏰🌠🎆⌚💵☎️🎙️💉💊🩸💳🪪🪣🎉🎊🪩📫📩✉💌📧📤📥📚📂📔📰📅🗓️🧮📌🔒❌⭕🚱🔞🚭📵🚷💯🚫⛔🛑♻️✅⏯️⏸️▶️⏏️#️⃣*️⃣⏭️⏮️⏩⏪⏫⏺️⏹️⏯️◀️⏬🔼🔽➡️⬅️⬆️⬇️↗️↘️↙️ℹ️📶🛜🔁🔂🔄🔀🔃🎵🎶®️™️©️

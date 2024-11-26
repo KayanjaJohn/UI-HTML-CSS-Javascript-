@@ -1,0 +1,74 @@
+<div class="limiter">
+    <div class="container-login100">
+        <div class="wrap-login100">
+            <form class="login100-form" method="POST" id="registration-form">
+                {% csrf_token %}
+                <span class="login100-form-logo">
+                    <img src="{% static 'accounts/images/bou2.jpeg' %}" alt="" style="width: 80px; height: 80px">
+                </span>
+
+                <span class="login100-form-title p-b-25 p-t-24">
+                    <h5>Update user</h5>
+                </span>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <label for="{{ form.username.id_for_label }}">Username</label>
+                        {{ form.username }}
+                    </div>
+                    <div class="col-lg-6">
+                        <label for="{{ form.first_name.id_for_label }}">First name</label>
+                        {{ form.first_name }}
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <label for="{{ form.middle_name.id_for_label }}">Middle name</label>
+                        {{ form.middle_name }}
+                    </div>
+                    <div class="col-lg-6">
+                        <label for="{{ form.last_name.id_for_label }}">Last name</label>
+                        {{ form.last_name }}
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <label for="{{ form.email.id_for_label }}">Email</label>
+                        {{ form.email }}
+                    </div>
+                    <div class="col-lg-6">
+                        <label for="{{ form.disconnect_date.id_for_label }}">Disconnect date</label>
+                        {{ form.disconnect_date }}
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-12">
+                        <label for="{{ form.department_name.id_for_label }}">Department</label>
+                        {{ form.department_name }}
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <label for="{{ form.role.id_for_label }}">Role</label>
+                        {{ form.role }}
+                    </div>
+                    <div class="col-lg-6">
+                        <label for="{{ form.status.id_for_label }}">Status</label>
+                        {{ form.status }}
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <label for="{{ form.groups.id_for_label }}">Group</label>
+                        {{ form.groups }}
+                    </div>
+                </div>
+                <div class="container-login100-form-btn mt-5">
+                  <button class="login100-form-btn" type="submit">
+                    Update
+                  </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
